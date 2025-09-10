@@ -16,4 +16,4 @@ This project implements a secure login system in Java using MD5 hashing to encry
 
 **Watch the Demo**
 
-[Secure Login Demo](https://github.com/Jacqueline2727/Secure-Login/blob/main/Secure%20Login%20Demo.mp4)
+[Secure Login Demo](./securelogindemo.mp4)
